@@ -25,7 +25,6 @@ To get started with **AuthGenix**, follow these steps:
 ```bash
 git clone https://github.com/Ramkrushna-Sahu/AuthGenix.git
 ```
-
 ### 2. Install dependencies
 #### For Backend
 ```bash
@@ -44,9 +43,7 @@ ACCESS_SECRET=your-access-token-secret
 REFRESH_SECRET=your-refresh-token-secret
 MONGO_URI=your-mongodb-uri
 ```
-
 ### 4. Start the server
-Run the backend and frontend servers:
 #### Start Backend
 ```bash
 cd server
