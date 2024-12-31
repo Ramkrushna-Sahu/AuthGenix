@@ -84,7 +84,4 @@ git push origin feature/your-feature-name
 ## Support
 If you run into any issues or have questions, feel free to create an issue on GitHub. You can also check the FAQs in the documentation for common queries.
 
-## Licensing
-AuthGenix is licensed under the MIT License. Feel free to use, modify, and distribute this code in your own projects.
-
 AuthGenix - Making Authentication Simple, Secure, and Scalable for All Developers. 🔐
